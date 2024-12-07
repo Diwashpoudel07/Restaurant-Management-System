@@ -1,0 +1,22 @@
+G:\FastFoodRestaurant\FastFoodRestaurant\bin\Debug\FastFoodRestaurant.exe.config
+G:\FastFoodRestaurant\FastFoodRestaurant\bin\Debug\FastFoodRestaurant.exe
+G:\FastFoodRestaurant\FastFoodRestaurant\bin\Debug\FastFoodRestaurant.pdb
+G:\FastFoodRestaurant\FastFoodRestaurant\obj\Debug\FastFoodRestaurant.csproj.AssemblyReference.cache
+G:\FastFoodRestaurant\FastFoodRestaurant\obj\Debug\FastFoodRestaurant.csproj.SuggestedBindingRedirects.cache
+G:\FastFoodRestaurant\FastFoodRestaurant\obj\Debug\FastFoodRestaurant.Form1.resources
+G:\FastFoodRestaurant\FastFoodRestaurant\obj\Debug\FastFoodRestaurant.Properties.Resources.resources
+G:\FastFoodRestaurant\FastFoodRestaurant\obj\Debug\FastFoodRestaurant.csproj.GenerateResource.cache
+G:\FastFoodRestaurant\FastFoodRestaurant\obj\Debug\FastFoodRestaurant.csproj.CoreCompileInputs.cache
+G:\FastFoodRestaurant\FastFoodRestaurant\obj\Debug\FastFoodRestaurant.exe
+G:\FastFoodRestaurant\FastFoodRestaurant\obj\Debug\FastFoodRestaurant.pdb
+G:\C# .Net Project\FastFoodRestaurant\FastFoodRestaurant\bin\Debug\FastFoodRestaurant.exe.config
+G:\C# .Net Project\FastFoodRestaurant\FastFoodRestaurant\bin\Debug\FastFoodRestaurant.exe
+G:\C# .Net Project\FastFoodRestaurant\FastFoodRestaurant\bin\Debug\FastFoodRestaurant.pdb
+G:\C# .Net Project\FastFoodRestaurant\FastFoodRestaurant\obj\Debug\FastFoodRestaurant.csproj.AssemblyReference.cache
+G:\C# .Net Project\FastFoodRestaurant\FastFoodRestaurant\obj\Debug\FastFoodRestaurant.csproj.SuggestedBindingRedirects.cache
+G:\C# .Net Project\FastFoodRestaurant\FastFoodRestaurant\obj\Debug\FastFoodRestaurant.Form1.resources
+G:\C# .Net Project\FastFoodRestaurant\FastFoodRestaurant\obj\Debug\FastFoodRestaurant.Properties.Resources.resources
+G:\C# .Net Project\FastFoodRestaurant\FastFoodRestaurant\obj\Debug\FastFoodRestaurant.csproj.GenerateResource.cache
+G:\C# .Net Project\FastFoodRestaurant\FastFoodRestaurant\obj\Debug\FastFoodRestaurant.csproj.CoreCompileInputs.cache
+G:\C# .Net Project\FastFoodRestaurant\FastFoodRestaurant\obj\Debug\FastFoodRestaurant.exe
+G:\C# .Net Project\FastFoodRestaurant\FastFoodRestaurant\obj\Debug\FastFoodRestaurant.pdb
